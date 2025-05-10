@@ -1,4 +1,15 @@
-.strong{
+body{
+     font-family: Arial, sans-serif;
+     background-color: blueviolet;
+     margin: 0;
+     padding:0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+}
+
+strong{
 font-family: Arial;
 color: aqua;
 font-size: 20px;
