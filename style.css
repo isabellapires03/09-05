@@ -14,3 +14,9 @@ font-family: Arial;
 color: aqua;
 font-size: 20px;
 }
+
+.detalhe{
+    font-size: 30px;
+    color: crimson;
+    line-height: 2;
+}
